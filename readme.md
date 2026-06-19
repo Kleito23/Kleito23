@@ -5,12 +5,7 @@
 - [Sobre mí](#sobre-mí)
 - [Proyectos](#proyectos)
 - [Tecnologías](#tecnologías)
-- [Cómo ejecutar](#cómo-ejecutar)
-- [Capturas / Demo](#capturas--demo)
-- [Estado y Roadmap](#estado-y-roadmap)
 - [Contacto](#contacto)
-- [Contribuir](#contribuir)
-- [Licencia](#licencia)
 
 ---
 
